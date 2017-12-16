@@ -11,7 +11,9 @@ Adding activities to a todo application
 
 
 
-Comments: JQuery (holy grail) made writing an app. like this super easy. It probably would have taken a lot longer with Vanilla JS.
+## Comments
+
+JQuery (holy grail) made writing an app. like this super easy. It probably would have taken a lot longer with Vanilla JS.
 
 
 ## Demo
